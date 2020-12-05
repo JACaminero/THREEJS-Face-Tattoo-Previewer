@@ -1,0 +1,11 @@
+Model Information:
+* title:	Head
+* source:	https://sketchfab.com/3d-models/head-2a4b1f75dba74a28a34439404a32eb6c
+* author:	propinnex (https://sketchfab.com/propinnexyt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Head" (https://sketchfab.com/3d-models/head-2a4b1f75dba74a28a34439404a32eb6c) by propinnex (https://sketchfab.com/propinnexyt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
