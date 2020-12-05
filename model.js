@@ -34,14 +34,14 @@ spotLight.position.set( 20, 0, 40 )
 spotLight.intensity = 0.5;
 scene.add( spotLight ); 
 
-var Ground_geometry = new THREE.BoxGeometry( 0.5, 0.000001, 0.5 );
-var Ground_material = new THREE.MeshPhongMaterial( {
+var groundGeometry = new THREE.BoxGeometry( 0.5, 0.000001, 0.5 );
+var groundMaterial = new THREE.MeshPhongMaterial( {
     color: 0xF0F0F0,
     shininess: 150,
     specular: 0xF0F0F0,
 } );
 
-var ground = new THREE.Mesh( Ground_geometry, Ground_material );
+var ground = new THREE.Mesh( groundGeometry, groundMaterial );
 ground.scale.multiplyScalar( 3 );
 ground.castShadow = false;
 ground.receiveShadow = true;
