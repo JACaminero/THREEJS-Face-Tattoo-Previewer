@@ -1,4 +1,9 @@
-@import url(//db.onlinewebfonts.com/c/6ca68131925d7aa08c97e57d9e8b2ed7?family=Cloister+Black);
+@font-face {
+	font-family: 'Cloister Black';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Cloister Black Light'), url('CloisterBlack.woff') format('woff');
+}
 
 li {
     margin-top: 40px;
